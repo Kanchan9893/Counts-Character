@@ -1,0 +1,32 @@
+html,body{
+    margin: 0;
+    padding: 0;
+    height: 100%;
+}
+.container{
+    background-color: black;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.box{
+    background-color: #333;
+    padding: 50px 150px;
+    text-align: center;
+    border-radius: 20px;
+}
+p{
+    font-size: 200%;
+    color: beige;
+}
+h2{
+    font-size: 50px;
+    color:yellowgreen
+}
+textarea{
+    width: 300px;
+    height: 100px;
+    font-size: 100%;
+    border: 5px solid greenyellow;
+}
